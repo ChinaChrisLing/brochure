@@ -1,0 +1,61 @@
+
+/*********************************
+    author lingliang
+    date 20170830
+    company weijingren
+*********************************/
+.slide-25 {
+    background-color: transparent;
+    background-image: url("../../images/09bg.png");
+    .item-image {
+        width: 20rem;
+        height: 5rem;
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
+        position: absolute;
+        top: 7rem;
+        left: 0;
+        right: 0;
+        margin: auto;
+        background-image: url('../../images/09bt.png');
+    }
+    .item-image2 {
+        width: 15rem;
+        height: 10rem;
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
+        position: absolute;
+        top: 15rem;
+        left: 0;
+        right: 0;
+        margin: auto;
+        background-image: url('../../images/09weixinewm.png');
+    }
+    .item-image3 {
+        width: 14rem;
+        height: 10rem;
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
+        position: absolute;
+        top: 25rem;
+        left: 0;
+        right: 0;
+        margin: auto;
+        background-image: url('../../images/09xz.png');
+    }
+    .item-text {
+        width: 18rem;
+        color: #fff;
+        font-size: 1.2rem;
+        font-weight: bold;
+        position: absolute;
+        top: 24rem;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        text-align: center;
+    }
+}
